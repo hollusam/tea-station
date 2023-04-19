@@ -7,16 +7,12 @@ Tea station is a website where you can get over hundreds of flavours of speciall
 
 ## Table of Contents
 
-* [Installation](#install)
 * [Usage](#usage)
 * [Screenshot](#screenshot)
 * [License](#license)
 * [Contributing](#contributing)
 * [Link](#link)
 * [Questions](#questions)
-
-## Install
-undefined
 
 ## Usage
 Can be used by visiting the website
@@ -31,7 +27,7 @@ Can be used by visiting the website
 Developers can clone, add features as they see necessary and push the their codes.
 
 ## Link
-undefined
+https://hollusam.github.io/tea-station/
 
 ## Questions
 Feel free to contact at oluyomisamuels@gmail.com to ask any questions about this project. To view other projects by me; please visit https://github.com/hollusam
